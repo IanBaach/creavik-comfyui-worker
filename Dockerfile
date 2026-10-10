@@ -1,4 +1,4 @@
-FROM runpod/worker-comfyui:5.8.6-base
+FROM runpod/worker-comfyui:5.10.0-base
 
 RUN pip install --no-cache-dir runpod requests
 
